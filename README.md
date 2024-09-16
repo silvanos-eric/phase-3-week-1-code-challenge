@@ -1,23 +1,3 @@
-Thanks for providing the contents of `strings.py`. Here’s a summary:
-
-- **`strings.py`**:
-  - **`reverse_string(text)`**: Reverses the input string and returns it.
-  - **`count_vowels(text)`**: Counts the number of vowels in the input string, ignoring case, and returns the count.
-
-### Summary of All Files:
-
-- **`Pipfile`**: Specifies the Python version and sources for packages.
-- **`decorators.py`**: Contains a decorator function `decorator_func` that prints a message before executing a function.
-- **`dicts.py`**: Contains `merge_dicts` function to merge two dictionaries and sum the values of common keys.
-- **`numbers.py`**: Provides functions for adding numbers, checking evenness, and calculating factorials.
-- **`oop.py`**: Defines the `Car` class with attributes and a method to display its information.
-- **`sequences.py`**: Provides a function `sort_by_age` to sort a list of tuples by age.
-- **`strings.py`**: Includes functions to reverse a string and count the vowels in a string.
-
-Next, we’ll create a more complete `README.md` file for your project. Here’s a draft based on the information we have:
-
----
-
 # Phase 3 Week 1 Code Challenge
 
 ## Table of Contents
